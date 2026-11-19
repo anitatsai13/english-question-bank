@@ -1,0 +1,14 @@
+{
+  "name": "英文題庫練習網",
+  "short_name": "英文題庫",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f4fa",
+  "theme_color": "#3b5bb5",
+  "lang": "zh-Hant",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
